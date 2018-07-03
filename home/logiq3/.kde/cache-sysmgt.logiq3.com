@@ -1,0 +1,1 @@
+/var/tmp/kdecache-logiq3

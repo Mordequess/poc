@@ -1,0 +1,4 @@
+interface:172.20.0.1:GigabitEthernet0/0/0
+Specified switch port not found, available ports are:
+interface:172.20.0.1:GigabitEthernet0/0/1
+Specified switch port not found, available ports are:

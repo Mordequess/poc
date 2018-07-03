@@ -1,0 +1,19 @@
+[$Version]
+update_info=kfmclient_3_2.upd:kfmclient_3_2
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[KFileDialog Settings]
+Height 768=450
+Recent Files[$e]=$HOME/sendEmail-v1.56.tar.gz,$HOME/sendEmail-v1.56.tar.gz
+Width 1024=700
+
+[SearchBar]
+CurrentEngine=google
+History list=\\0
+Mode=1
+SuggestionEnabled=true
+
+[Undo]
+Number of Closed Windows=1

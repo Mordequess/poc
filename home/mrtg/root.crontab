@@ -1,0 +1,1 @@
+*/3 * * * * /home/scripts/GenHomePage.sh /home/scripts/MasterSystemList.txt

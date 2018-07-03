@@ -1,0 +1,39 @@
+imsettings information
+==========================
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: no
+DESKTOP_SESSION: default
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-BIWwOJKAwX,guid=98a9a81a4e0285cd8f2f89e50013bea2
+GTK_IM_MODULE: gtk-im-context-simple
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+***
+*** imsettings is explicitly disabled.
+***
+imsettings information
+==========================
+Is DBus enabled: yes
+Is imsettings enabled: no
+Is GTK+ supported: no
+Is Qt supported: no
+DESKTOP_SESSION: default
+DISABLE_IMSETTINGS: 1
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-BIWwOJKAwX,guid=98a9a81a4e0285cd8f2f89e50013bea2
+GTK_IM_MODULE: gtk-im-context-simple
+QT_IM_MODULE: xim
+XMODIFIERS: @im=none
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+*** DRY RUN MODE: running IM without imsettings
+
+IM-Settings-Daemon[22198]: WARNING **: Unable to monitor /home/logiq3/.xinputrc: Error stating file '/home/logiq3/.xinputrc': No such file or directory
+IM-Settings-Daemon[22198]: INFO: Current IM is: none

@@ -1,0 +1,3 @@
+interface:172.20.0.1:GigabitEthernet0/0/1
+     0 runts, 0 giants, 0 throttles 
+     0 input errors, 0 CRC, 0 frame, 0 overrun, 0 ignored

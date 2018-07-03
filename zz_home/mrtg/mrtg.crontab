@@ -1,0 +1,4 @@
+*/5 * * * * /home/scripts/PingCheck.sh /home/scripts/MasterSystemList.txt
+*/6 * * * * /home/scripts/MRTGStatChecker.sh /home/mrtg/mrtg
+30 1 * * * /home/scripts/GenMRTGCfg.sh /home/scripts/MasterSystemList.txt
+*/5 * * * * /home/scripts/ErrorMonitor/CheckErr.sh /home/scripts/MasterSystemList.txt logiq3read /home/scripts/ErrorMonitor/RouterPorts.txt

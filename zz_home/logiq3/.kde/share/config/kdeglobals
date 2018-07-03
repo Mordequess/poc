@@ -1,0 +1,23 @@
+[$Version]
+update_info=mouse_cursor_theme.upd:kde3.4.99,kaccel.upd:kde3.3/r1,kded.upd:kde3.0,kwin.upd:kde3.2Xinerama
+
+[KFileDialog Settings]
+Automatically select filename extension=true
+Breadcrumb Navigation=true
+Decoration position=0
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Previews=false
+Recent URLs[$e]=/home
+Show Bookmarks=false
+Show Full Path=false
+Show Preview=false
+Show Speedbar=true
+Show hidden files=false
+Sort by=Name
+Sort reversed=false
+Speedbar Width=98
+View Style=Simple
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480

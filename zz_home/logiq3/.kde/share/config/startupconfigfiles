@@ -1,0 +1,55 @@
+kcminputrc Mouse cursorTheme 'Oxygen_Black'
+/home/logiq3/.kde/share/config/kcminputrc
+/usr/share/kde-settings/kde-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+kcminputrc Mouse cursorSize ''
+/home/logiq3/.kde/share/config/kcminputrc
+/usr/share/kde-settings/kde-profile/default/share/config/kcminputrc
+!/usr/share/config/kcminputrc
+*
+ksplashrc KSplash Theme CentOS6
+!/home/logiq3/.kde/share/config/ksplashrc
+/usr/share/kde-settings/kde-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+ksplashrc KSplash Engine KSplashX
+!/home/logiq3/.kde/share/config/ksplashrc
+/usr/share/kde-settings/kde-profile/default/share/config/ksplashrc
+!/usr/share/config/ksplashrc
+*
+kcmrandrrc Display ApplyOnStartup false
+!/home/logiq3/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen0]
+!/home/logiq3/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen1]
+!/home/logiq3/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen2]
+!/home/logiq3/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmrandrrc [Screen3]
+!/home/logiq3/.kde/share/config/kcmrandrrc
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmrandrrc
+!/usr/share/config/kcmrandrrc
+*
+kcmfonts General forceFontDPI 0
+!/home/logiq3/.kde/share/config/kcmfonts
+!/usr/share/kde-settings/kde-profile/default/share/config/kcmfonts
+!/usr/share/config/kcmfonts
+*
+kdeglobals Locale Language '' # trigger requesting languages from KLocale
+/home/logiq3/.kde/share/config/kdeglobals
+/usr/share/kde-settings/kde-profile/default/share/config/kdeglobals
+!/usr/share/config/kdeglobals
+*

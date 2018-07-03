@@ -1,0 +1,32 @@
+[$Version]
+update_info=ksmserver.upd:kde3
+
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=1014cd7d2d4000137671185500000057220000
+clientId2=1014cd7d2d4000137671185900000057220008
+clientId3=101e918216d1b9000137809760500000221560005
+count=3
+discardCommand1[$e]=rm,$HOME/.kde/share/config/session/kwin_1014cd7d2d4000137671185500000057220000_1378097820_825463
+discardCommand2[$e]=rm,$HOME/.kde/share/config/session/kmix_1014cd7d2d4000137671185900000057220008_1378097820_807969
+discardCommand3[$e]=
+program1=kwin
+program2=kmix
+program3=pulseaudio
+restartCommand1=kwin,-session,1014cd7d2d4000137671185500000057220000_1378097820_825463
+restartCommand2=kmix,-session,1014cd7d2d4000137671185900000057220008_1378097820_807969
+restartCommand3=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+userId1=logiq3
+userId2=logiq3
+userId3=logiq3
+wasWm1=true
+wasWm2=false
+wasWm3=false

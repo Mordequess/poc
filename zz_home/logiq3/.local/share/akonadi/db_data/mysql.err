@@ -1,0 +1,28 @@
+130816 23:59:17  InnoDB: Initializing buffer pool, size = 80.0M
+130816 23:59:17  InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+130816 23:59:17  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+130816 23:59:17  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 8 MB
+InnoDB: Database physically writes the file full: wait...
+130816 23:59:17  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 8 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+130816 23:59:17  InnoDB: Started; log sequence number 0 0
+130816 23:59:17 [Warning] Can't open and lock time zone table: Table 'mysql.time_zone_leap_second' doesn't exist trying to live without them
+130816 23:59:17 [ERROR] Can't open and lock privilege tables: Table 'mysql.servers' doesn't exist
+130816 23:59:17 [Note] /usr/libexec/mysqld: ready for connections.
+Version: '5.1.61-log'  socket: '/home/logiq3/.local/share/akonadi/db_misc/mysql.socket'  port: 0  Source distribution
+130817  0:02:53 [Warning] Aborted connection 5 to db: 'akonadi' user: 'logiq3' host: '' (Got an error reading communication packets)
+130817  0:11:58 [Note] /usr/libexec/mysqld: Normal shutdown
+
+130817  0:11:58  InnoDB: Starting shutdown...
+130817  0:12:00  InnoDB: Shutdown completed; log sequence number 0 124984
+130817  0:12:00 [Note] /usr/libexec/mysqld: Shutdown complete
+

@@ -1,0 +1,170 @@
+/usr/libexec/mysqld, Version: 5.1.61-log (Source distribution). started with:
+Tcp port: 0  Unix socket: /home/logiq3/.local/share/akonadi/db_misc/mysql.socket
+Time                 Id Command    Argument
+# Time: 130816 23:59:17
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.007027  Lock_time: 0.001431 Rows_sent: 0  Rows_examined: 28
+use akonadi;
+SET timestamp=1376711957;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# Time: 130816 23:59:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000199  Lock_time: 0.000086 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM SchemaVersionTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002277  Lock_time: 0.000046 Rows_sent: 1  Rows_examined: 29
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000148  Lock_time: 0.000086 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM ResourceTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002282  Lock_time: 0.000042 Rows_sent: 2  Rows_examined: 30
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000145  Lock_time: 0.000068 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM CollectionTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002236  Lock_time: 0.000044 Rows_sent: 3  Rows_examined: 31
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000126  Lock_time: 0.000064 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM MimeTypeTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002255  Lock_time: 0.000042 Rows_sent: 4  Rows_examined: 32
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000278  Lock_time: 0.000065 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM PimItemTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002616  Lock_time: 0.000043 Rows_sent: 5  Rows_examined: 33
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000129  Lock_time: 0.000067 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM FlagTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002280  Lock_time: 0.000041 Rows_sent: 6  Rows_examined: 34
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000261  Lock_time: 0.000065 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM PartTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.003778  Lock_time: 0.000041 Rows_sent: 7  Rows_examined: 35
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000242  Lock_time: 0.000065 Rows_sent: 0  Rows_examined: 0
+SET timestamp=1376711958;
+SELECT * FROM CollectionAttributeTable LIMIT 1;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002384  Lock_time: 0.000063 Rows_sent: 8  Rows_examined: 36
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002308  Lock_time: 0.000042 Rows_sent: 9  Rows_examined: 37
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.002297  Lock_time: 0.000043 Rows_sent: 10  Rows_examined: 38
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.004719  Lock_time: 0.000011 Rows_sent: 1  Rows_examined: 1
+SET timestamp=1376711958;
+SELECT version FROM SchemaVersionTable;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.009636  Lock_time: 0.000108 Rows_sent: 11  Rows_examined: 39
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'BASE TABLE';
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.005043  Lock_time: 0.000041 Rows_sent: 0  Rows_examined: 39
+SET timestamp=1376711958;
+select table_name from information_schema.tables where table_type = 'VIEW';
+# Time: 130817  0:00:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000218  Lock_time: 0.000027 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712018;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000108  Lock_time: 0.000016 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712018;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:01:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000265  Lock_time: 0.000026 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712078;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:02:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000185  Lock_time: 0.000027 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712138;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000108  Lock_time: 0.000017 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712138;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:03:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000220  Lock_time: 0.000027 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712198;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:04:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000218  Lock_time: 0.000036 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712258;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:05:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000114  Lock_time: 0.000016 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712318;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000062  Lock_time: 0.000010 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712318;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:06:18
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000134  Lock_time: 0.000024 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712378;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:07:19
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000218  Lock_time: 0.000041 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712439;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:08:19
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000211  Lock_time: 0.000036 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712499;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:09:19
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000208  Lock_time: 0.000029 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712559;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000112  Lock_time: 0.000019 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712559;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:10:19
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000206  Lock_time: 0.000046 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712619;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;
+# Time: 130817  0:11:19
+# User@Host: [logiq3] @ localhost []
+# Query_time: 0.000256  Lock_time: 0.000027 Rows_sent: 3  Rows_examined: 3
+SET timestamp=1376712679;
+SELECT id, remoteId, name, parentId, resourceId, subscribed, cachePolicyInherit, cachePolicyCheckInterval, cachePolicyCacheTimeout, cachePolicySyncOnDemand, cachePolicyLocalParts FROM CollectionTable;

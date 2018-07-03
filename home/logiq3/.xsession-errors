@@ -1,0 +1,134 @@
+startkde: Starting up...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kbuildsycoca4 running...
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Invalid D-BUS member name 'idle-hint' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'is-local' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'x11-display-device' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'x11-display' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'display-device' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'remote-host-name' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'session-type' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+Invalid D-BUS member name 'unix-user' found in interface 'org.freedesktop.ConsoleKit.Session' while parsing introspection
+X Error: XSyncBadAlarm 152
+  Extension:    143 (Uknown extension)
+  Minor opcode: 11 (Unknown request)
+  Resource id:  0x3f
+X Error: XSyncBadAlarm 152
+  Extension:    143 (Uknown extension)
+  Minor opcode: 11 (Unknown request)
+  Resource id:  0x3f
+QDBusConnection: name 'org.kde.kglobalaccel' had owner '' but we thought it was ':1.5'
+<unknown program name>(22124)/ KStartupInfo::createNewStartupId: creating:  "sysmgt.logiq3.com;1378097604;188420;22124_TIME0" : "unnamed app"
+kephald starting up 
+XRANDR error base:  162 
+RRInput mask is set!! 
+RandRScreen::loadSettings - adding mode:  266 1024 x 768 
+RandRScreen::loadSettings - adding mode:  267 800 x 600 
+RandRScreen::loadSettings - adding mode:  268 720 x 576 
+RandRScreen::loadSettings - adding mode:  269 854 x 480 
+RandRScreen::loadSettings - adding mode:  270 800 x 480 
+RandRScreen::loadSettings - adding mode:  271 720 x 480 
+RandRScreen::loadSettings - adding mode:  272 640 x 480 
+RandRScreen::loadSettings - adding crtc:  264 
+RandRScreen::loadSettings - adding output:  265 
+Setting CRTC 264 on output "default" (previous 0 ) 
+CRTC outputs: (265) 
+Output name: "default" 
+Output refresh rate: 61 
+Output rect: QRect(0,0 1024x768) 
+Output rotation: 1 
+XRandROutputs::init 
+  added output  265 
+adding an output 0 with geom:  QRect(0,0 1024x768) 
+output: "SCREEN-0" QRect(0,0 1024x768) 1952543855 true true 
+load xml 
+connected: 1 
+looking for current "SCREEN-0" 
+known "*" has score: 0.125 
+screen: 0 QRect(0,0 1024x768) 
+looking for a matching configuration... 
+connected: 1 
+looking for current "SCREEN-0" 
+known "*" has score: 0.125 
+found outputs, known: false 
+activate external configuration!! 
+registered the service: true 
+screens registered on the bus: true 
+outputs registered on the bus: true 
+configurations registered on the bus: true 
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QDBusObjectPath: invalid path ""
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+QLayout: Attempting to add QLayout "" to QWidget "", which already has a layout
+QGraphicsLinearLayout::removeAt: invalid index 0
+QGraphicsLinearLayout::removeAt: invalid index 0
+Object::connect: No such signal SystemTray::Manager::jobStateChanged(SystemTray::Job*)
+Invalid D-BUS interface name 'org.kde.plasma-desktop.PlasmaApp' found while parsing introspection
+<unknown program name>(22166)/ kdemain: Xlib XKB extension major= 1  minor= 0
+vmware-user: could not open /proc/fs/vmblock/dev
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+
+(polkit-gnome-authentication-agent-1:22191): GLib-GObject-WARNING **: cannot register existing type `_PolkitError'
+
+(polkit-gnome-authentication-agent-1:22191): GLib-CRITICAL **: g_once_init_leave: assertion `initialization_value != 0' failed
+** Message: applet now removed from the notification area
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+"Warning: You do not seem to have the package gstreamer0.10-plugins-good installed.
+          Some video features have been disabled." 
+** Message: applet now embedded in the notification area
+"/usr/bin/krunner(22177)" Error in thread 140723755161632 : "org.freedesktop.DBus.Error.ServiceUnknown - The name org.kde.nepomuk.services.nepomukstorage was not provided by any .service files"
+"/usr/bin/krunner(22177)" Error in thread 140723755161632 : "QLocalSocket::connectToServer: Invalid name"
+Xlib:  extension "VMWARE_CTRL" missing on display ":0.0".
+"KConfigIni: In file /home/logiq3/.kde/share/apps/RecentDocuments/sendEmail-v1.56.tar.gz.desktop.lock, line 1: " Invalid entry (missing '=') 
+"KConfigIni: In file /home/logiq3/.kde/share/apps/RecentDocuments/sendEmail-v1.56.tar.gz.desktop.lock, line 2: " Invalid entry (missing '=') 
+"KConfigIni: In file /home/logiq3/.kde/share/apps/RecentDocuments/sendEmail-v1.56.tar.gz.desktop.lock, line 3: " Invalid entry (missing '=') 
+QPainter::begin: Paint device returned engine == 0, type: 2
+QPainter::setCompositionMode: Painter not active
+QPainter::end: Painter not active, aborted
+** Message: applet now removed from the notification area
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c000ad
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 10 (X_UnmapWindow)
+  Resource id:  0x1c0028a
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c0028a
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 10 (X_UnmapWindow)
+  Resource id:  0x1c00238
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1c00238
+X Error: RenderBadPicture (invalid Picture parameter) 158
+  Extension:    147 (RENDER)
+  Minor opcode: 7 (RenderFreePicture)
+  Resource id:  0x101
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 4 (X_DestroyWindow)
+  Resource id:  0x1c00238
+X Error: RenderBadPicture (invalid Picture parameter) 158
+  Extension:    147 (RENDER)
+  Minor opcode: 7 (RenderFreePicture)
+  Resource id:  0x101
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 4 (X_DestroyWindow)
+  Resource id:  0x1c0028a
+Unrecognized character: /
+Unrecognized character: /
+ERROR: syntax error
+X Error: BadWindow (invalid Window parameter) 3
+  Extension:    138 (Uknown extension)
+  Minor opcode: 6 (Unknown request)
+  Resource id:  0x1600142
+X Error: BadWindow (invalid Window parameter) 3
+  Major opcode: 2 (X_ChangeWindowAttributes)
+  Resource id:  0x1600142
+startkde: Shutting down...
+klauncher: Exiting on signal 1
+startkde: Running shutdown scripts...
+startkde: Done.

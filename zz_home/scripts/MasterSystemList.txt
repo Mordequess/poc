@@ -1,0 +1,314 @@
+# This is the master list of systems to monitor
+# Becuase there is no DNS we cannot monitor by name, only IP, so we will create
+# some site specific conventions:
+# 1.  comments, as always lead with a pound or hash, '#', any text *before*
+#     the pound (on the same line) is to be processed, any text after the
+#     pound, on the same line, is comment and is typically ignored (see below)
+# 2.  lines leading with a double tilde '~~' are, comma delimited, email
+#     sender/recipents as specifed in the subsections below.
+#     a. lines with a double tilde then note are notifications, i.e. ~~note~
+#     b. lines with a double tilde then sev are issues i.e. ~~sev~
+#     b. lines with a double tilde then send are the from field, i.e. ~~send~
+# 3.  The email server to use as a SMTP server for sending alerts is to be
+#     marked with a 'RELAY' tag. (RELAY tag does not imply or exclude the option
+#     for an SMTP tag, that is if RELAY is used SMTP can be used or can be
+#     excluded, for example if an external relay were used we might wish to
+#     skip on testing it.)
+# 4.  lines with ip address (in standard dotted decimal notation) followed by
+#     any number, possibly zero, colons for field delimiting are systems that
+#     may, or may not be monitored, i.e. 192.168.1.1:PING:Cisco1841
+# 5.  To mark a system for ping test, it must have a 'PING' tag.
+# 6.  To mark a system for MRTG traking it must have an appropriate hardware
+#     type tag, that is to say there must be a script name that matches the
+#     hardware tag that generates an appropirate MRTG config file, i.e.
+#     <IPaddr>:Cat3560 would invoke: Cat3560_MRTG_CfgGen.sh
+# 7.  To mark a system for SMTP tracking there must be, obviously, an 'SMTP'
+#     tag.
+# 8.  The full of tags that can be added are: DNS, FTP, HTTP, HTTPS, the
+#     various MRTG tags and Ping.
+# 9.  Due to a lack of DNS typically the first expression after a comment is
+#     treated as a system name, i.e. 'w.x.y.z <tab> # System_name' for easy
+#     identification.
+# 10. If there is an HTTP or HTTPS check, then there must be a special tag after the
+#     comment. For a site such as https://name/path the tag would be:
+#     HTTPS:<PATH>@<NAME>
+#     So for example https://www.microsoft.com/sharepoint/exception becomes:
+#     HTTPS:sharepoint/exception@www.microsoft.com
+#     And http://www.google.ca becomes:
+#     HTTP:/@www.google.ca
+
+~~note~alerts@logiq3.com
+~~sev~alerts@logiq3.com,ian.sanderson@logiq3.com
+~~send~itsupport@logiq3.com
+206.223.163.225:ping                    # Beanfield_Gateway
+38.140.220.145:ping			# Cogent_Gateway
+209.85.242.13:ping				# First_External_Hop
+8.8.8.8:ping				# Google_Primary_WAN_Access_Check
+8.8.4.4:ping				# Google_Secondary_WAN_Access_Check
+162.212.202.16:https			# hub.apexa.ca HTTPS:/@hub.apexa.ca
+174.47.102.195:https			# hub.logiq3.com HTTPS:/@hub.logiq3.com
+65.52.45.211:https			# logiq3.sharepoint.com HTTPS:/login.srf?wa=wsignin1.0&rpsnv=2&ct=1385614116&rver=6.1.6206.0&wp=MBI&wreply=https%3A%2F%2Flogiq3.sharepoint.com%2F_forms%2Fdefault.aspx&lc=1033&id=500046&guests=1@login.microsoftonline.com
+10.126.148.2:ping			# Epik_networks_Rt1
+10.126.148.3:ping			# Epik_networks_Rt2
+174.47.102.193:https			# solutions.logiq3.com HTTPS:/@solutions.logiq3.com
+184.84.243.32:http			# www.logiq3.com HTTP:/@www.logiq3.com
+96.45.83.2:http				# apexa.ca HTTP:/@www.apexa.ca
+10.10.10.3:ping:relay:smtp		# Clearswift_mail10
+174.47.102.215:smtp			# Clearswift_mail50
+206.172.40.68:smtp			# Clearswift_mail60
+10.10.10.4:ping:Cat3750:poe:cpu:mem	# Cat_3750_Cookhouse_SW1
+10.10.10.80:ping			# Ricoh_Cookhouse_CP252SF
+10.0.72.1:ping:CheckPoint		# Checkpoint_Firewall (Need to add monitors to this)
+10.0.72.2
+10.0.72.3
+10.0.72.4
+10.0.72.5
+10.0.72.6
+10.0.72.7
+10.0.72.8
+10.0.72.9
+10.0.72.10:ping:Cat3750:poe:cpu:mem	# Cat_3750_Switch_Stack
+10.0.72.11
+10.0.72.12
+10.0.72.13
+10.0.72.14
+10.0.72.15
+10.0.72.16
+10.0.72.17:ping:Cat3750:poe:cpu:mem     # Cat_3750_12floor_Apexa
+10.0.72.18
+10.0.72.19
+10.0.72.20
+10.0.72.21
+10.0.72.22
+10.0.72.23
+10.0.72.24
+10.0.72.25
+10.0.72.26
+10.0.72.27
+10.0.72.28
+10.0.72.29
+10.0.72.30
+10.0.72.31
+10.0.72.32
+10.0.72.33
+10.0.72.34
+10.0.72.35
+10.0.72.36
+10.0.72.37
+10.0.72.38
+10.0.72.39
+10.0.72.40
+10.0.72.41
+10.0.72.42
+10.0.72.43
+10.0.72.44
+10.0.72.45
+10.0.72.46
+10.0.72.47
+10.0.72.48
+10.0.72.49
+10.0.72.50
+10.0.72.51
+10.0.72.52
+10.0.72.53
+10.0.72.54
+10.0.72.55
+10.0.72.56
+10.0.72.57
+10.0.72.58
+10.0.72.59
+10.0.72.60
+10.0.72.61
+10.0.72.62
+10.0.72.63
+10.0.72.64
+10.0.72.65
+10.0.72.66:ping:AKCP			# 13'th_floor_AKCP
+10.0.72.67:ping:AKCP			# 14'th_floor_AKCP
+10.0.72.68:ping:AKCP			# LAN_Room_AKCP
+#10.0.72.69:ping:AKCP			# APC_UPS
+10.0.72.70
+10.0.72.71
+10.0.72.72
+10.0.72.73
+10.0.72.74
+10.0.72.75
+10.0.72.76
+10.0.72.77
+10.0.72.78
+10.0.72.79
+10.0.72.80
+10.0.72.81:ping	i			# 13_floor_APC_UPS
+10.0.72.82
+10.0.72.83
+10.0.72.84
+10.0.72.85
+10.0.72.86
+10.0.72.87
+10.0.72.88
+10.0.72.89
+10.0.72.90
+10.0.72.91
+10.0.72.92
+10.0.72.93
+10.0.72.94
+10.0.72.95
+10.0.72.96
+10.0.72.97
+10.0.72.98
+10.0.72.99
+10.0.72.100
+10.0.72.101
+10.0.72.102
+10.0.72.103
+10.0.72.104
+10.0.72.105
+10.0.72.106
+10.0.72.107
+10.0.72.108
+10.0.72.109
+10.0.72.110
+10.0.72.111
+10.0.72.112
+10.0.72.113
+10.0.72.114
+10.0.72.115
+10.0.72.116
+10.0.72.117
+10.0.72.118
+10.0.72.119
+10.0.72.120
+10.0.72.121
+10.0.72.122
+10.0.72.123
+10.0.72.124
+10.0.72.125
+10.0.72.126
+10.0.72.127
+10.0.72.128
+10.0.72.129
+10.0.72.130:ping		# sally-guest
+10.0.72.131
+10.0.72.132
+10.0.72.133
+10.0.72.134
+10.0.72.135
+10.0.72.136
+10.0.72.137
+10.0.72.138
+10.0.72.139
+10.0.72.140			# Windows7-VM
+10.0.72.141			# Windows7-VM Clone
+10.0.72.142			# Remote Access
+10.0.72.143
+10.0.72.144
+10.0.72.145:http		# System_Monitor_Server HTTP:/@10.0.72.145 
+10.0.72.146			# Kiwi Syslog Server
+10.0.72.147
+10.0.72.148
+10.0.72.149:ping		# GhostSolutionSuite server
+10.0.72.150
+10.0.72.151
+10.0.72.152
+10.0.72.153
+10.0.72.154
+10.0.72.155
+10.0.72.156
+10.0.72.157
+10.0.72.158
+10.0.72.159
+10.0.72.160
+10.0.72.161
+10.0.72.162
+10.0.72.163
+10.0.72.164
+10.0.72.165
+10.0.72.166
+10.0.72.167
+10.0.72.168
+10.0.72.169
+10.0.72.170
+10.0.72.171
+10.0.72.172
+10.0.72.173
+10.0.72.174
+10.0.72.175
+10.0.72.176
+10.0.72.177
+10.0.72.178
+10.0.72.179
+10.0.72.180
+10.0.72.181
+10.0.72.182
+10.0.72.183
+10.0.72.184
+10.0.72.185
+10.0.72.186
+10.0.72.187
+10.0.72.188
+10.0.72.189
+10.0.72.190
+10.0.72.191
+10.0.72.192
+10.0.72.193
+10.0.72.194:ping			# Nicole - RICOH - C300
+10.0.72.195:ping			# Rose - RICOH - C4500
+10.0.72.196:ping			# Brother Printer HL-5370DW
+10.0.72.197:ping			# Tonya - RICOH - C406
+10.0.72.198
+10.0.72.199
+10.0.72.200
+10.0.72.201
+10.0.72.202
+10.0.72.203
+10.0.72.204
+10.0.72.205
+10.0.72.206
+10.0.72.207
+10.0.72.208
+10.0.72.209
+10.0.72.210
+10.0.72.211
+10.0.72.212
+10.0.72.213
+10.0.72.214
+10.0.72.215
+10.0.72.216
+10.0.72.217
+10.0.72.218
+10.0.72.219
+10.0.72.220:ping			# Camera_1_13th_Floor_Lobby
+10.0.72.221:ping			# Camera_2_13th_Floor_South
+10.0.72.222:ping			# Camera_3_13th_Floor_North
+10.0.72.223:ping			# Camera_4_14th_Floor_South
+10.0.72.224:ping			# Camera_5_14th_Floor_North
+10.0.72.225:ping			# Camera_6_12th_Floor_Lobby
+10.0.72.226:ping			# Camera_7_12th_Floor_NE
+10.0.72.227:ping			# Camera_8_12th_Floor_SE
+10.0.72.228
+10.0.72.229
+10.0.72.230
+10.0.72.231
+10.0.72.232
+10.0.72.233
+10.0.72.234
+10.0.72.235
+10.0.72.236
+10.0.72.237
+10.0.72.238
+10.0.72.239
+10.0.72.240
+10.0.72.241
+10.0.72.242
+10.0.72.243
+10.0.72.244
+10.0.72.245
+10.0.72.246
+10.0.72.247
+10.0.72.248
+10.0.72.249
+10.0.72.250
+10.0.72.251
+10.0.72.252
+10.0.72.253
+10.0.72.254

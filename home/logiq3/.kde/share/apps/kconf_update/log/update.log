@@ -1,0 +1,402 @@
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/ksmserver.upd' for new updates
+2013-08-16T23:57:32 ksmserver.upd: Found new update 'kde3'
+2013-08-16T23:57:32 ksmserver.upd: File 'ksmserverrc' does not exist or empty, skipping
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberpriorityaddition-kconf_update.upd' for new updates
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Found new update 'kopete0.9/r1'
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Running script 'kopete-jabberpriorityaddition-kconf_update.sh'
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1024, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1050, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1200, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 480, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 600, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 768, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 800, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1024, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1280, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1400, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1450, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1600, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1900, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 800, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1024, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1050, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1200, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 480, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 600, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 768, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 800, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1024, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1280, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1400, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1450, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1600, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1900, already exists.
+2013-08-16T23:57:32 kopete-jabberpriorityaddition-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 800, already exists.
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/mouse_cursor_theme.upd' for new updates
+2013-08-16T23:57:32 mouse_cursor_theme.upd: Found new update 'kde3.4.99'
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma_popupapplet_fix_groups.upd' for new updates
+2013-08-16T23:57:32 plasma_popupapplet_fix_groups.upd: Found new update 'PlasmaPopupAppletFixGroups1'
+2013-08-16T23:57:32 plasma_popupapplet_fix_groups.upd: File 'plasma-appletsrc' does not exist or empty, skipping
+2013-08-16T23:57:32 plasma_popupapplet_fix_groups.upd: Found new update 'PlasmaPopupAppletFixGroups2'
+2013-08-16T23:57:32 plasma_popupapplet_fix_groups.upd: Running script 'plasma_popupapplet_fix_groups.pl'
+2013-08-16T23:57:32 plasma_popupapplet_fix_groups.upd: Found new update 'PlasmaPopupAppletFixGroups3'
+2013-08-16T23:57:32 plasma_popupapplet_fix_groups.upd: File 'plasmoidviewer-appletsrc' does not exist or empty, skipping
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-add-shortcut-to-menu.upd' for new updates
+2013-08-16T23:57:32 plasma-add-shortcut-to-menu.upd: Found new update '4.1LauncherShortcut'
+2013-08-16T23:57:32 plasma-add-shortcut-to-menu.upd: !! Script 'plasma-add-shortcut-to-menu-update' not found in line 2 : 'Script=plasma-add-shortcut-to-menu-update'
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasmarc-to-plasmadesktoprc.upd' for new updates
+2013-08-16T23:57:32 plasmarc-to-plasmadesktoprc.upd: Found new update '4.3plasma-desktop'
+2013-08-16T23:57:32 plasmarc-to-plasmadesktoprc.upd: Running script 'plasma-to-plasma-desktop'
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinsticky.upd' for new updates
+2013-08-16T23:57:32 kwinsticky.upd: Found new update 'stickyupd3.1'
+2013-08-16T23:57:32 kwinsticky.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd' for new updates
+2013-08-16T23:57:32 ksslcertificatemanager.upd: Found new update 'kde4.2'
+2013-08-16T23:57:32 ksslcertificatemanager.upd: Running script 'ksslcertificatemanager.upd.sh'
+2013-08-16T23:57:32 [Script] rm: cannot remove `/home/logiq3/.kde//share/config/ksslcertificatemanager': No such file or directory
+2013-08-16T23:57:32 ksslcertificatemanager.upd: !! An error occurred while running 'sh /usr/share/kde4/apps/kconf_update/ksslcertificatemanager.upd.sh'
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/plasma-to-plasmadesktop-shortcuts.upd' for new updates
+2013-08-16T23:57:32 plasma-to-plasmadesktop-shortcuts.upd: Found new update '4.3plasma-desktop-shortcuts'
+2013-08-16T23:57:32 plasma-to-plasmadesktop-shortcuts.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/klipper-kconfigxt.upd' for new updates
+2013-08-16T23:57:32 klipper-kconfigxt.upd: Found new update 'KlipperNoSpacesInKeyNames'
+2013-08-16T23:57:32 klipper-kconfigxt.upd: File 'klipperrc' does not exist or empty, skipping
+2013-08-16T23:57:32 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-nameTracking.upd' for new updates
+2013-08-16T23:57:32 kopete-nameTracking.upd: Found new update 'kopete0.9/r1'
+2013-08-16T23:57:32 kopete-nameTracking.upd: !! Script 'kopete-nameTracking-kconf_update' not found in line 3 : 'Script=kopete-nameTracking-kconf_update'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kcalcrc.upd' for new updates
+2013-08-16T23:57:33 kcalcrc.upd: Found new update 'KDE_3_2_0'
+2013-08-16T23:57:33 kcalcrc.upd: File 'kcalcrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kcalcrc.upd: Found new update 'KDE_4_3_0'
+2013-08-16T23:57:33 kcalcrc.upd: File 'kcalcrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/devicepreference.upd' for new updates
+2013-08-16T23:57:33 devicepreference.upd: Found new update 'DevicesMovedToPlatformPlugin'
+2013-08-16T23:57:33 devicepreference.upd: Running script 'phonon_devicepreference_update'
+2013-08-16T23:57:33 devicepreference.upd: Found new update 'DevicesUIDsChanged'
+2013-08-16T23:57:33 devicepreference.upd: Running script 'phonon_deviceuids_update'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/mailtransports.upd' for new updates
+2013-08-16T23:57:33 mailtransports.upd: Found new update 'initial-kmail-migration'
+2013-08-16T23:57:33 mailtransports.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:33 mailtransports.upd: Found new update 'initial-knode-migration'
+2013-08-16T23:57:33 mailtransports.upd: File 'knoderc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kfmclient_3_2.upd' for new updates
+2013-08-16T23:57:33 kfmclient_3_2.upd: Found new update 'kfmclient_3_2'
+2013-08-16T23:57:33 kfmclient_3_2.upd: File 'kfmclientrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-gaim_to_pidgin_style.upd' for new updates
+2013-08-16T23:57:33 kopete-gaim_to_pidgin_style.upd: Found new update 'kopete0.70.85/r1'
+2013-08-16T23:57:33 kopete-gaim_to_pidgin_style.upd: Running script 'kopete-gaim_to_pidgin_style.pl'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kalarm.upd' for new updates
+2013-08-16T23:57:33 kalarm.upd: Found new update '1.9.5'
+2013-08-16T23:57:33 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kalarm.upd: Found new update '1.9.9'
+2013-08-16T23:57:33 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kalarm.upd: Found new update '1.9.12'
+2013-08-16T23:57:33 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kalarm.upd: Found new update '2.0.0'
+2013-08-16T23:57:33 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kalarm.upd: Found new update '2.0.2'
+2013-08-16T23:57:33 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kalarm.upd: Found new update '2.1.5'
+2013-08-16T23:57:33 kalarm.upd: File 'kalarmrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kcookiescfg.upd' for new updates
+2013-08-16T23:57:33 kcookiescfg.upd: Found new update 'kde2.2/b1'
+2013-08-16T23:57:33 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kcookiescfg.upd: Found new update 'kde3.1/cvs'
+2013-08-16T23:57:33 kcookiescfg.upd: File 'kcookiejarrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader2.upd' for new updates
+2013-08-16T23:57:33 kopete-pluginloader2.upd: Found new update 'kopete0.8/r1'
+2013-08-16T23:57:33 kopete-pluginloader2.upd: Running script 'kopete-pluginloader2.sh'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kcharselect.upd' for new updates
+2013-08-16T23:57:33 kcharselect.upd: Found new update '1'
+2013-08-16T23:57:33 kcharselect.upd: File 'kcharselectrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-pluginloader.upd' for new updates
+2013-08-16T23:57:33 kopete-pluginloader.upd: Found new update 'kopete0.7/r1'
+2013-08-16T23:57:33 kopete-pluginloader.upd: Running script 'kopete-pluginloader.pl'
+2013-08-16T23:57:33 kopete-pluginloader.upd: Script removes kopeterc::Modules
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/konqsidebartng.upd' for new updates
+2013-08-16T23:57:33 konqsidebartng.upd: Found new update 'konqsidebartng_rc'
+2013-08-16T23:57:33 konqsidebartng.upd: Found new update 'konqsidebartng_entries'
+2013-08-16T23:57:33 konqsidebartng.upd: Running script 'move_konqsidebartng_entries.sh'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/audiocd.upd' for new updates
+2013-08-16T23:57:33 audiocd.upd: Found new update '1'
+2013-08-16T23:57:33 audiocd.upd: File 'kcmaudiocdrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_window_shortcuts.upd' for new updates
+2013-08-16T23:57:33 kwin_window_shortcuts.upd: Found new update 'kde414'
+2013-08-16T23:57:33 kwin_window_shortcuts.upd: File 'kglobalshortcutsrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kpgp.upd' for new updates
+2013-08-16T23:57:33 kpgp.upd: Found new update 'preKDE3_a'
+2013-08-16T23:57:33 kpgp.upd: File 'kpgprc' does not exist or empty, skipping
+2013-08-16T23:57:33 kpgp.upd: Found new update '3.1-1'
+2013-08-16T23:57:33 kpgp.upd: File 'kpgprc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kaccel.upd' for new updates
+2013-08-16T23:57:33 kaccel.upd: Found new update 'kde3.3/r1'
+2013-08-16T23:57:33 kaccel.upd: Running script 'convertShortcuts.pl'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kpilot.upd' for new updates
+2013-08-16T23:57:33 kpilot.upd: Found new update 'kdepim_3.3'
+2013-08-16T23:57:33 kpilot.upd: File 'kpilotrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kpilot.upd: Found new update 'kdepim_3.3_SplitConfig'
+2013-08-16T23:57:33 kpilot.upd: File 'kpilotrc' does not exist or empty, skipping
+2013-08-16T23:57:33 kpilot.upd: Skipping update 'kdepim_3.3_SplitConfig'
+2013-08-16T23:57:33 kpilot.upd: File 'kpilotrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kwiniconify.upd' for new updates
+2013-08-16T23:57:33 kwiniconify.upd: Found new update 'iconifyupd3.1'
+2013-08-16T23:57:33 kwiniconify.upd: File 'kwin.eventsrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus1.upd' for new updates
+2013-08-16T23:57:33 kwin_focus1.upd: Found new update 'kwin_focus1'
+2013-08-16T23:57:33 kwin_focus1.upd: Running script 'kwin_focus1.sh'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kuriikwsfilter.upd' for new updates
+2013-08-16T23:57:33 kuriikwsfilter.upd: Found new update 'post-kde3.1/cvs'
+2013-08-16T23:57:33 kuriikwsfilter.upd: File 'kuriikwsfilterrc' does not exist or empty, skipping
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kio_help.upd' for new updates
+2013-08-16T23:57:33 kio_help.upd: Found new update 'kde3_2'
+2013-08-16T23:57:33 kio_help.upd: Running script 'move_kio_help_cache.sh'
+2013-08-16T23:57:33 [Script] mv: cannot stat `/home/logiq3/.kde/share/apps/kio_help/cache': No such file or directory
+2013-08-16T23:57:33 [Script] rmdir: failed to remove `/home/logiq3/.kde/share/apps/kio_help': No such file or directory
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/krdb.upd' for new updates
+2013-08-16T23:57:33 krdb.upd: Found new update 'LibraryPathNeedsANewStart'
+2013-08-16T23:57:33 krdb.upd: Running script 'krdb_clearlibrarypath'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin3_plugin.upd' for new updates
+2013-08-16T23:57:33 kwin3_plugin.upd: Found new update 'kde3.2'
+2013-08-16T23:57:33 kwin3_plugin.upd: Running script 'kwin3_plugin.pl'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Compositing:Enabled to 'false'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:AutoRaise to 'off'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:AutoRaiseInterval to '0'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:BorderSnapZone to '10'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:ClickRaise to 'on'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:FocusPolicy to 'ClickToFocus'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:MoveMode to 'Opaque'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:ResizeMode to 'Opaque'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:WindowSnapZone to '10'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Windows:WindowsPlacement to 'Smart'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Style:PluginLib to 'kwin3_oxygen'
+2013-08-16T23:57:33 kwin3_plugin.upd: Updating kwinrc:Style:ShowToolTips to 'true'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-jabberproxytype-kconf_update.upd' for new updates
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Found new update 'kopete0.9/r1'
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Running script 'kopete-jabberproxytype-kconf_update.sh'
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1024, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1050, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1200, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 480, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 600, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 768, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 800, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1024, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1280, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1400, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1450, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1600, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1900, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 800, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1024, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1050, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1200, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 480, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 600, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 768, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 800, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1024, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1280, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1400, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1450, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1600, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1900, already exists.
+2013-08-16T23:57:33 kopete-jabberproxytype-kconf_update.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 800, already exists.
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_fsp_workarounds_1.upd' for new updates
+2013-08-16T23:57:33 kwin_fsp_workarounds_1.upd: Found new update 'kde351'
+2013-08-16T23:57:33 kwin_fsp_workarounds_1.upd: Running script 'kwin_update_default_rules' with arguments 'fsp_workarounds_1.kwinrules'
+2013-08-16T23:57:33 Checking update-file '/usr/share/kde4/apps/kconf_update/kioslave.upd' for new updates
+2013-08-16T23:57:33 kioslave.upd: Found new update 'kde2.2/r1'
+2013-08-16T23:57:33 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2013-08-16T23:57:33 kioslave.upd: Skipping update 'kde2.2/r1'
+2013-08-16T23:57:33 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2013-08-16T23:57:33 kioslave.upd: Found new update 'kde2.2/r2'
+2013-08-16T23:57:33 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2013-08-16T23:57:34 kioslave.upd: Found new update 'kde2.2/r3'
+2013-08-16T23:57:34 kioslave.upd: File 'kioslaverc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_focus2.upd' for new updates
+2013-08-16T23:57:34 kwin_focus2.upd: Found new update 'kwin_focus2'
+2013-08-16T23:57:34 kwin_focus2.upd: Running script 'kwin_focus2.sh'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin_on_off.upd' for new updates
+2013-08-16T23:57:34 kwin_on_off.upd: Found new update 'kwin_on_off'
+2013-08-16T23:57:34 kwin_on_off.upd: Running script 'on-off_to_true-false.sh'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/korganizer.upd' for new updates
+2013-08-16T23:57:34 korganizer.upd: Found new update 'korganizer_3.4_GroupwareCleanup'
+2013-08-16T23:57:34 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2013-08-16T23:57:34 korganizer.upd: Found new update 'korganizer_3.4_WebExport'
+2013-08-16T23:57:34 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2013-08-16T23:57:34 korganizer.upd: Found new update 'korganizer_3.4_FilterAction'
+2013-08-16T23:57:34 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2013-08-16T23:57:34 korganizer.upd: Found new update 'korganizer_3.4_HolidayPlugin'
+2013-08-16T23:57:34 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2013-08-16T23:57:34 korganizer.upd: Found new update 'korganizer_4.3_ShowTodos'
+2013-08-16T23:57:34 korganizer.upd: File 'korganizerrc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-initialstatus.upd' for new updates
+2013-08-16T23:57:34 kopete-initialstatus.upd: Found new update 'kopete0.60.80/r1'
+2013-08-16T23:57:34 kopete-initialstatus.upd: Running script 'kopete-initialstatus.pl'
+2013-08-16T23:57:34 kopete-initialstatus.upd: Script removes kopeterc:Behavior:autoConnect
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1024, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1050, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 1200, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 480, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 600, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 768, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Height 800, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1024, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1280, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1400, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1450, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1600, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 1900, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowGroupMode:Width 800, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1024, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1050, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 1200, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 480, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 600, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 768, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Height 800, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1024, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1280, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1400, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1450, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1600, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 1900, already exists.
+2013-08-16T23:57:34 kopete-initialstatus.upd: Skipping kopeterc:KopeteChatWindowIndividualMode:Width 800, already exists.
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kded.upd' for new updates
+2013-08-16T23:57:34 kded.upd: Found new update 'kde3.0'
+2013-08-16T23:57:34 kded.upd: File 'kdedrc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kmail.upd' for new updates
+2013-08-16T23:57:34 kmail.upd: Found new update '1'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '4'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '5'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '6'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '7'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '8'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '9'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.1-update-identities'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.1-use-identity-uoids'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.1-new-mail-notification'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.2-update-loop-on-goto-unread-settings'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.1.4-dont-use-UOID-0-for-any-identity'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.2-misc'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.2-moves'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-use-ID-for-accounts'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-update-filter-rules'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-move-identities-to-own-file'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-aegypten-kpgprc-to-kmailrc'
+2013-08-16T23:57:34 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-aegypten-kpgprc-to-libkleopatrarc'
+2013-08-16T23:57:34 kmail.upd: File 'kpgprc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-aegypten-emailidentities-split-sign-encr-keys'
+2013-08-16T23:57:34 kmail.upd: File 'emailidentities' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3-misc'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.3b1-misc'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.4'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.4a'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.4b'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.4.1'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.5.4'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '3.5.7-imap-flag-migration'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '4.0-misc'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kmail.upd: Found new update '4.2'
+2013-08-16T23:57:34 kmail.upd: File 'kmailrc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kwin.upd' for new updates
+2013-08-16T23:57:34 kwin.upd: Found new update 'kde3.0r1'
+2013-08-16T23:57:34 kwin.upd: Running script 'pluginlibFix.pl'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Compositing:Enabled to 'false'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:AutoRaise to 'off'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:AutoRaiseInterval to '0'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:BorderSnapZone to '10'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:ClickRaise to 'on'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:FocusPolicy to 'ClickToFocus'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:MoveMode to 'Opaque'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:ResizeMode to 'Opaque'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:WindowSnapZone to '10'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Windows:WindowsPlacement to 'Smart'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Style:PluginLib to 'kwin3_oxygen'
+2013-08-16T23:57:34 kwin.upd: Updating kwinrc:Style:ShowToolTips to 'true'
+2013-08-16T23:57:34 kwin.upd: Found new update 'kde3.2Xinerama'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/favicons.upd' for new updates
+2013-08-16T23:57:34 favicons.upd: Found new update 'kde3_2'
+2013-08-16T23:57:34 favicons.upd: Running script 'move_favicons.sh'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kwinupdatewindowsettings.upd' for new updates
+2013-08-16T23:57:34 kwinupdatewindowsettings.upd: Found new update 'kde33b1'
+2013-08-16T23:57:34 kwinupdatewindowsettings.upd: Running script 'kwin_update_window_settings'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kolab-resource.upd' for new updates
+2013-08-16T23:57:34 kolab-resource.upd: Found new update 'kolab-calendar-resource-rename'
+2013-08-16T23:57:34 kolab-resource.upd: File 'kresources/calendar/stdrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kolab-resource.upd: Found new update 'kolab-contact-resource-rename'
+2013-08-16T23:57:34 kolab-resource.upd: File 'kresources/contact/stdrc' does not exist or empty, skipping
+2013-08-16T23:57:34 kolab-resource.upd: Found new update 'kolab-notes-resource-rename'
+2013-08-16T23:57:34 kolab-resource.upd: File 'kresources/notes/stdrc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-update_yahoo_server.upd' for new updates
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Found new update 'kopete-update-yahoo-server/r1'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Running script 'kopete-update_yahoo_server.pl'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 1024 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 1050 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 1200 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 480 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 600 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 768 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Height 800 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 1024 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 1280 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 1400 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 1450 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 1600 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 1900 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowGroupMode:Width 800 to '650'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 1024 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 1050 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 1200 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 480 to '300'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 600 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 768 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Height 800 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 1024 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 1280 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 1400 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 1450 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 1600 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 1900 to '400'
+2013-08-16T23:57:34 kopete-update_yahoo_server.upd: Updating kopeterc:KopeteChatWindowIndividualMode:Width 800 to '400'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmcddb-emailsettings.upd' for new updates
+2013-08-16T23:57:34 kcmcddb-emailsettings.upd: Found new update 'kcmcddb_emailsettings'
+2013-08-16T23:57:34 kcmcddb-emailsettings.upd: File 'kcmcddbrc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kcmdisplayrc.upd' for new updates
+2013-08-16T23:57:34 kcmdisplayrc.upd: Found new update 'kde3'
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kpat_update_cardwidth.upd' for new updates
+2013-08-16T23:57:34 kpat_update_cardwidth.upd: Found new update 'kpat_cardwidth_update.kde41'
+2013-08-16T23:57:34 kpat_update_cardwidth.upd: File 'kpatrc' does not exist or empty, skipping
+2013-08-16T23:57:34 Checking update-file '/usr/share/kde4/apps/kconf_update/kopete-account-kconf_update.upd' for new updates
+2013-08-16T23:57:34 kopete-account-kconf_update.upd: Found new update 'kopete0.7/r1'
+2013-08-16T23:57:34 kopete-account-kconf_update.upd: Running script 'kopete-account-kconf_update.sh'
+2013-08-16T23:57:34 kopete-account-kconf_update.upd: Found new update 'kopete0.10/r1'
+2013-08-16T23:57:34 kopete-account-kconf_update.upd: Running script 'kopete-account-0.10.pl'

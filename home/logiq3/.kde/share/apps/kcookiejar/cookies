@@ -1,0 +1,11 @@
+# KDE Cookie File v2
+#
+# Host               Domain               Path         Exp.date   Prot Name                 Sec  Value
+[.google.ca]
+www.google.ca        ".google.ca"         "/"          1393927140    0 NID                  6    67=D3uZvKLWtWWU4KkTmeVLNECOOUKfkk_qQLUB3_edACCzCttBFUHRPaq6c7iURvijKStLv0r47Wy3c5hDrkeuJ2J3wKkz8op1Fch_GISt0Qls1_aFtGKn09BoTdCv3W60
+www.google.ca        ".google.ca"         "/"          1441184348    0 PREF                 4    ID=b62fa4d4159ddcff:U=bd0d1d71752db8d4:FF=0:TM=1378097940:LM=1378097948:S=K9NMD-u7oWGVyS39
+[.dotconf.net]
+caspian.dotconf.net  ".caspian.dotconf.net" "/"          1441184077    0 __utma               4    41413680.215154140.1378097678.1378097678.1378097678.1
+caspian.dotconf.net  ".caspian.dotconf.net" "/"          1378113877    0 __utmb               4    41413680.1.10.1378097678
+caspian.dotconf.net  ".caspian.dotconf.net" "/"          1393883677    0 __utmz               4    41413680.1378097678.1.1.utmcsr=google|utmccn=(organic)|utmcmd=organic|utmctr=sendemail.pl
+caspian.dotconf.net  ".caspian.dotconf.net" "/"          1378112077    0 __utmv               4    
